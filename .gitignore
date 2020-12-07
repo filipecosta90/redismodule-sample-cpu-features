@@ -1,4 +1,7 @@
 # Prerequisites
+*.rdb
+
+# Prerequisites
 *.d
 
 # Object files
